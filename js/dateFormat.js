@@ -1,4 +1,6 @@
-// dateFormat.js by Zane Hannan AU
+/*! dateFormat.js by Zane Hannan AU
+ *  github.com/ZaneHannanAU/mini-client-tools
+!*/
 'use asm';
 // Search `asm.js' for more
 var time = document.getElementsByTagName('time')
