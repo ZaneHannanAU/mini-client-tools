@@ -1,0 +1,24 @@
+{
+  "name": "mini-client-tools",
+  "version": "1.0.0",
+  "description": "A small set of client-side tools for user based i18n",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZaneHannanAU/mini-client-tools.git"
+  },
+  "keywords": [
+    "client-js",
+    "server",
+    "date"
+  ],
+  "author": "Zane Hannan AU",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ZaneHannanAU/mini-client-tools/issues"
+  },
+  "homepage": "https://github.com/ZaneHannanAU/mini-client-tools#readme"
+}
