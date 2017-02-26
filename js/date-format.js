@@ -9,12 +9,12 @@ var dateFormat = function dateFormat() {
 	// Get all time elements
 	var times = []
 
-	const localeFormat = localeFormat ? localeFormat :
+	const localeFormat = // customisable
 	[	'en-AU'
 	,	'en-GB'
 	,	'en-US'
 	,	'en'  ]
-	const dateTimeFormat = dateTimeFormat ? dateTimeFormat :
+	const dateTimeFormat = // customisable
 	{	day: '2-digit'
 	,	hour: '2-digit'
 	,	minute: '2-digit'
